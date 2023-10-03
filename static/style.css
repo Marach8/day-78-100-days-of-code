@@ -1,0 +1,19 @@
+html, body {
+  background-color:#4c4848;
+  height: 100%;
+  width: 100%;
+}
+h1, h3 {
+  font-family: monospace:
+  font-weight: extra-bold;
+  font-size: 30px;
+}
+h3 {
+  color: #1b36a1;
+  font-size: 15px;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif
+  color: blue;
+}
